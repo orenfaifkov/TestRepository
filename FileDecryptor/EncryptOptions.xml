@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Ecryption properties</comment>
+<entry key="SignatureLen">128</entry>
+<entry key="DataLen">494</entry>
+<entry key="SygnatureKeyAlgorithm">RSA</entry>
+<entry key="IV">2owhaMfccHk98p7RsU7h+w==</entry>
+<entry key="PublicKey">MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKMm1CRxfV0jguG6B7PnKXSHWwTrFWVEPR0lNFTT4h2DOFijRm5pDpvai0ndVM5AzBxNZzsImQ4K3cksV3UURol/PKKxV8vdK746CJe7LW9tReW9+2i2o8IvSNaXQ6UM9J1YW4Q5ilG3Jr+dk7PN461ajrLLH66UkQIUD14ebiqQIDAQAB</entry>
+<entry key="SygnatureAlgorithm">SHA1withRSA</entry>
+<entry key="EncryptionAlgorithm">AES/CBC/PKCS5Padding</entry>
+</properties>
